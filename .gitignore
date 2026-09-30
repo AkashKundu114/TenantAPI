@@ -1,0 +1,18 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+## SQLite
+*.db
+*.db-shm
+*.db-wal
+
+## IDE
+.vs/
+.vscode/
+*.swp
+*~

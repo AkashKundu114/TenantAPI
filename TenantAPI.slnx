@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TenantAPI.Tests/TenantAPI.Tests.csproj" />
+  <Project Path="TenantAPI/TenantAPI.csproj" />
+</Solution>
